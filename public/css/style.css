@@ -1,0 +1,60 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(100deg, rgb(194, 194, 194) 10%, rgb(255, 96, 96) 90%)
+}
+#card{
+    padding: 2rem 5rem;
+    margin: 3rem ;
+    text-align: left;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: cornflowerblue;
+    background-color: black;
+    
+}
+.card{
+    box-shadow: 0.4rem 0.4rem rgb(104, 104, 104);
+    margin-top: -0.5rem;
+}
+.card-body{
+    padding:  4rem 4rem;
+    margin: 2rem 0rem;
+    text-align: left;
+    
+}
+.input{
+    border: 2px solid black;
+    padding: 1.3rem 1rem 1.3rem 1rem;
+    margin-bottom: 4rem;
+    margin-top: 1.5rem;
+    margin-left: -1.5rem;
+    border-radius: 2rem;
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+.input:focus{
+    border-radius: 0rem;
+    transition: ease-in-out 0.4s;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    padding: 1rem;
+}
+.card-footer{
+    text-align: center;
+    font-weight: bold;
+    border-top: 3px solid black;
+}
+.btn{
+    padding: 1rem 3rem;
+    text-align: center;
+    
+}
+label{
+    margin-left: -1.5rem;
+    margin-top: -2rem;
+    color: black;
+    font-size: 2rem;
+    
+}
