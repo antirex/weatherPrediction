@@ -13,7 +13,7 @@ body{
     
 }
 .card{
-    box-shadow: 0.4rem 0.4rem rgb(104, 104, 104);
+    box-shadow: 0.4rem 0.4rem rgb(105, 105, 105);
     margin-top: -0.5rem;
 }
 .card-body{
@@ -34,7 +34,7 @@ body{
 }
 .input:focus{
     border-radius: 0rem;
-    transition: ease-in-out 0.4s;
+    transition: ease-in-out 0.5s;
 }
 h1{
     text-align: center;
@@ -44,17 +44,17 @@ h1{
 .card-footer{
     text-align: center;
     font-weight: bold;
-    border-top: 3px solid black;
+    border-top: 4px solid black;
 }
 .btn{
     padding: 1rem 3rem;
-    text-align: center;
+    text-align: left;
     
 }
 label{
     margin-left: -1.5rem;
     margin-top: -2rem;
     color: black;
-    font-size: 2rem;
+    font-size: 3rem;
     
 }
