@@ -17,19 +17,18 @@ body{
     margin-top: -0.5rem;
 }
 .card-body{
-    padding:  4rem 4rem;
+    padding: 4rem 4rem;
     margin: 2rem 0rem;
     text-align: left;
     
 }
 .input{
     border: 2px solid black;
-    padding: 1.3rem 1rem 1.3rem 1rem;
+    padding: 1.3rem 1rem;
     margin-bottom: 4rem;
     margin-top: 1.5rem;
     margin-left: -1.5rem;
     border-radius: 2rem;
-    background-color: black;
     color: rgb(255, 255, 255);
 }
 .input:focus{
@@ -47,8 +46,9 @@ h1{
     border-top: 3px solid black;
 }
 .btn{
-    padding: 1rem 3rem;
+    padding: 1rem 1rem;
     text-align: center;
+    background-color: black;
     
 }
 label{
@@ -56,5 +56,4 @@ label{
     margin-top: -2rem;
     color: black;
     font-size: 2rem;
-    
 }
